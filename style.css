@@ -1,0 +1,39 @@
+body {
+
+ font-family: 'Macondo', cursive;
+
+ background-size: cover;
+
+ background-position: center;
+
+}
+
+.a:hover {
+
+ text-decoration: none;
+
+ background-color: pink;
+
+ color: black;
+
+}
+
+.a {
+
+display: inline-block;
+
+width: 300px;
+
+color: black;
+
+font-size: 20px;
+
+background-color: white;
+
+padding: 5px;
+
+border-radius: 15px;
+
+transition-duration: 1s;
+
+}
